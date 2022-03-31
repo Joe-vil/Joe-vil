@@ -6,4 +6,4 @@
 - My YouTube channel: https://www.youtube.com/channel/UC4K55-U3himy7GuM45YCiGw
 - My Twitter: https://twitter.com/JoeTheHorse92
 
-![alt text](https://github.com/Joe-vil/about-me/blob/main/89c.gif?raw=true)
+![alt text](https://github.com/Joe-vil/Joe-vil/blob/main/89c.gif?raw=true)
